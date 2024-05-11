@@ -1,0 +1,5 @@
+src/assets/videos/OS_Intro_FemaleVoice.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/videos/OperateSync_CR_Process.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/videos/profitring.mp4 filter=lfs diff=lfs merge=lfs -text
+src/assets/videos/profitring.webm filter=lfs diff=lfs merge=lfs -text
+src/assets/videos/vision.mp4 filter=lfs diff=lfs merge=lfs -text
